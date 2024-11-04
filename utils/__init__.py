@@ -1,0 +1,1 @@
+root_base = r"C:\Users\97650\Desktop\python\对比实验\LSE"   #root directory path
