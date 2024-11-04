@@ -17,15 +17,6 @@ M.Naseer Subhani and Mohsen Ali
 This repo contains implementation of paper titled ["Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation"](https://arxiv.org/pdf/2007.14449.pdf)
 introduced in ECCV2020  
 
-If you use this code in your research, please cite us.
-~~~~
-@article{subhani2020learning,
-  title={Learning from Scale-Invariant Examples for Domain Adaptation in Semantic Segmentation},
-  author={Subhani, M Naseer and Ali, Mohsen},
-  journal={arXiv preprint arXiv:2007.14449},
-  year={2020}
-}
-~~~~
 
 ### Requirements:
 - Ubuntu 16.04 with NVIDIA Tesla K80 GPU.
